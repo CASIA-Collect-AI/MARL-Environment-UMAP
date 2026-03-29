@@ -1,6 +1,21 @@
-# Unreal-MAP 
+# Unreal-MAP
 
 [English](README.md) | [中文](README_CN.md)
+
+---
+
+## 🏛️ About This Repository
+
+This repository is maintained by **[CASIA-Collect-AI](https://github.com/CASIA-Collect-AI)** as part of a curated collection of high-quality MARL simulation environments.
+
+📌 **Original Repository (Recommended):** [binary-husky/unreal-map](https://github.com/binary-husky/unreal-map)
+⭐ **If this work is helpful, please Star the original repository to support the authors!**
+
+🔗 **Companion Algorithm Framework:** [HMAP/HMP2G](https://github.com/binary-husky/hmp2g) — A powerful MARL experimental framework designed to work with Unreal-MAP.
+
+> CASIA-Collect-AI is an open-source code collection platform maintained by the AI team at the Institute of Automation, Chinese Academy of Sciences (CASIA).
+
+---
 
 [![Version](https://img.shields.io/badge/version-3.14-blue)](https://github.com/binary-husky/unreal-map)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
