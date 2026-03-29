@@ -13,6 +13,7 @@ This repository is maintained by **[CASIA-Collect-AI](https://github.com/CASIA-C
 
 🔗 **Companion Algorithm Framework:** [HMAP/HMP2G](https://github.com/binary-husky/hmp2g) — A powerful MARL experimental framework designed to work with Unreal-MAP.
 
+> **Team:** Intelligent Flight Technology Team (Swarm Intelligence Group), Institute of Automation, Chinese Academy of Sciences (CASIA), led by Prof. Zhiqiang Pu.
 > CASIA-Collect-AI is an open-source code collection platform maintained by the AI team at the Institute of Automation, Chinese Academy of Sciences (CASIA).
 
 ---
